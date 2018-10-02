@@ -1,0 +1,9 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "devDependencies": {
+    "moment-datetime": "0.0.2",
+    "react-date-picker": "^6.12.1",
+    "react-datepicker": "^1.6.0"
+  }
+}
